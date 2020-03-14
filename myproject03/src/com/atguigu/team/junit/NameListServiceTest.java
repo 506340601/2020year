@@ -1,10 +1,9 @@
 package com.atguigu.team.junit;
 
-import org.junit.Test;
-
 import com.atguigu.team.domain.Employee;
 import com.atguigu.team.service.NameListService;
 import com.atguigu.team.service.TeamException;
+import org.junit.Test;
 
 /**
  * 对NameListService类的测试

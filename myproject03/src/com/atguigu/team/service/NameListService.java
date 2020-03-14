@@ -1,13 +1,6 @@
 package com.atguigu.team.service;
 
-import com.atguigu.team.domain.Architect;
-import com.atguigu.team.domain.Designer;
-import com.atguigu.team.domain.Employee;
-import com.atguigu.team.domain.Equipment;
-import com.atguigu.team.domain.NoteBook;
-import com.atguigu.team.domain.PC;
-import com.atguigu.team.domain.Printer;
-import com.atguigu.team.domain.Programmer;
+import com.atguigu.team.domain.*;
 
 import static com.atguigu.team.service.Data.*;
 
